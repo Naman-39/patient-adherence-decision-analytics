@@ -66,7 +66,7 @@ How do follow-up calls affect adherence?
 
 ![Dashboard](images/Age.PNG)
 ![Dashboard](images/SIDE_EFFECTS.PNG)
-![Dashboard](images/RISK segment.PNG)
+![Dashboard](images/Risk segment.PNG)
 ![Dashboard](images/matrix.PNG)
 ![Dashboard](images/marketing.PNG)
 ![Dashboard](images/value segment.PNG)
