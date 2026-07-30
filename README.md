@@ -64,6 +64,6 @@ How do follow-up calls affect adherence?
 
 ## Executive Dashboard
 
-![Dashboard](images/AGE.png)
+![Dashboard](images/Age.PNG)
 
 Which patient segment is most at risk?
