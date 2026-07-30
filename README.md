@@ -62,4 +62,8 @@ Does patient support improve renewals?
 
 How do follow-up calls affect adherence?
 
+## Executive Dashboard
+
+![Dashboard](images/dashboard_overview.png)
+
 Which patient segment is most at risk?
