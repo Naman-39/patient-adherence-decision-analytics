@@ -60,7 +60,9 @@ Which marketing channels acquire high-value patients?
 
 Does patient support improve renewals?
 
-How do follow-up calls affect adherence?
+How do follow-up calls affect adherence?.
+
+Which patient segment is most at risk?
 
 ## Executive Dashboard
 
@@ -69,4 +71,3 @@ How do follow-up calls affect adherence?
 ![Dashboard](images/matrix.PNG)
 ![Dashboard](images/marketing.PNG)
 
-Which patient segment is most at risk?
